@@ -1,0 +1,7 @@
+{
+  "name": "eNotes 📚",
+  "description": "Ethiopian Grade 9–12 Educational Platform & Android Mobile App with Telebirr Payments, Curriculum Notes, Textbooks, Worksheets, Exams, and Rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
